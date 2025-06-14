@@ -73,6 +73,10 @@
               "target": "Package",
               "version": "[8.2.2, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -167,7 +171,7 @@
             },
             "NUnit": {
               "target": "Package",
-              "version": "[4.2.2, )"
+              "version": "[3.13.3, )"
             },
             "NUnit.Analyzers": {
               "target": "Package",

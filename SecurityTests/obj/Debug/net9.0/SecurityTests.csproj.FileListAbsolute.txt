@@ -56,7 +56,6 @@
 /Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/bin/Debug/net9.0/testhost.dll
 /Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/bin/Debug/net9.0/Newtonsoft.Json.dll
 /Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/bin/Debug/net9.0/nunit.framework.dll
-/Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/bin/Debug/net9.0/nunit.framework.legacy.dll
 /Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/bin/Debug/net9.0/ReactiveUI.dll
 /Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/bin/Debug/net9.0/SkiaSharp.dll
 /Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/bin/Debug/net9.0/Splat.dll
@@ -214,3 +213,5 @@
 /Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/obj/Debug/net9.0/SecurityTests.pdb
 /Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/obj/Debug/net9.0/SecurityTests.genruntimeconfig.cache
 /Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/obj/Debug/net9.0/ref/SecurityTests.dll
+/Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/bbm2/Documents/GitHub/Sophic_Journal_QA/SecurityTests/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll

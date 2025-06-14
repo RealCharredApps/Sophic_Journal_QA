@@ -1,0 +1,6 @@
+/Users/bbm2/Documents/GitHub/Sophic_Journal_QA/MyNUnitTestProject/tests/obj/Debug/net8.0/MyNUnitTestProject.Tests.csproj.AssemblyReference.cache
+/Users/bbm2/Documents/GitHub/Sophic_Journal_QA/MyNUnitTestProject/tests/obj/Debug/net8.0/MyNUnitTestProject.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bbm2/Documents/GitHub/Sophic_Journal_QA/MyNUnitTestProject/tests/obj/Debug/net8.0/MyNUnitTestProject.Tests.AssemblyInfoInputs.cache
+/Users/bbm2/Documents/GitHub/Sophic_Journal_QA/MyNUnitTestProject/tests/obj/Debug/net8.0/MyNUnitTestProject.Tests.AssemblyInfo.cs
+/Users/bbm2/Documents/GitHub/Sophic_Journal_QA/MyNUnitTestProject/tests/obj/Debug/net8.0/MyNUnitTestProject.Tests.csproj.CoreCompileInputs.cache
+/Users/bbm2/Documents/GitHub/Sophic_Journal_QA/MyNUnitTestProject/tests/obj/Debug/net8.0/MyNUnitTestProject.Tests.sourcelink.json
