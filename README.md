@@ -55,8 +55,8 @@ Traditional journaling apps store your personal thoughts locally where they can 
 |**Security Vulnerabilities**  |0 High/Critical|✅ 0 Found   |Zero data breach risk |
 |**Authentication Response**   |< 2 seconds    |✅ 1.3s avg  |Excellent UX          |
 |**Test Automation Coverage**  |> 80%          |✅ 85%       |Reduced manual effort |
-|**Concurrent Users Supported**|50+            |✅ 75+ tested|Exceeds requirements  |
-|**Network Failure Recovery**  |100%           |✅ 100%      |No data loss scenarios|
+|**Concurrent Users Supported**|tbd            |.            |tbd.                  |
+|**Network Failure Recovery**  |tbd            |.            |Dev Based Data Lost 3x before multi-layered encryption|
 
 ## 🛠️ Technology Stack
 
@@ -81,7 +81,7 @@ Traditional journaling apps store your personal thoughts locally where they can 
 
 ```bash
 # Required software
-.NET 7.0 SDK
+.NET 8.0 SDK
 Docker Desktop
 Git
 ```
@@ -256,7 +256,7 @@ This project is licensed under the MIT License - see the <LICENSE> file for deta
 ## 👨‍💻 Author
 
 **Justin Sjaaheim** - QA Engineer  
-📧 JustinSjaaheim@iCloud.com  
+📧 realcharredapps@icloud.com  
 🌐 [GitHub Profile](https://github.com/realcharredapps)  
 💼 [LinkedIn](https://linkedin.com/in/justinsjaaheim)
 
@@ -266,7 +266,7 @@ This project is licensed under the MIT License - see the <LICENSE> file for deta
 
 **Current Phase:** Active Development  
 **Test Coverage:** 85% (150+ automated tests)  
-**Security Status:** ✅ Zero high-severity vulnerabilities  
+**Security Status:** tbd  
 **Performance Status:** ✅ All benchmarks met  
 **Documentation Status:** ✅ Comprehensive and up-to-date
 
